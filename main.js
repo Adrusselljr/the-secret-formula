@@ -62,9 +62,9 @@ formTwo.addEventListener('submit', e => {
     if(peppers.checked) {
         str += "Peppers,  "
     }
-
+    
     alert(str)
-
+    
     whiteBread.checked = false
     wheatBread.checked = false
     lettuce.checked = false
